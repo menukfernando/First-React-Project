@@ -15,10 +15,11 @@ function App() {
 
   return (
     <>
-    <section className="class-list">
-      {data}
-    </section>
-      
+      <h1 className="title">Profile Card Maker with React</h1>
+      <section className="class-list">
+        {data}
+      </section>
+      <footer>@menukFernando</footer>
     </>
   )
 }

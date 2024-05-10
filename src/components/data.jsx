@@ -41,7 +41,7 @@ export default [
     },
 
     {
-        id: 2,
+        id: 7,
         image: "../public/images/jason.jpg",
         name: "Jason Perera",
         age: "21",
@@ -49,7 +49,7 @@ export default [
     },
 
     {
-        id: 3,
+        id: 8,
         image: "../public/images/maya.jpg",
         name: "Maya Angelou",
         age: "18",
@@ -58,7 +58,7 @@ export default [
 
 
     {
-        id: 5,
+        id: 9,
         image: "../public/images/Timothy.jpg",
         name: "Timothy Fransisco",
         age: "32",
@@ -66,7 +66,7 @@ export default [
     },
 
     {
-        id: 1,
+        id: 10,
         image: "../public/images/danu.jpg",
         name: "Danushka Fernando",
         age: "19",
@@ -74,7 +74,7 @@ export default [
     },
 
     {
-        id: 2,
+        id: 11,
         image: "../public/images/jason.jpg",
         name: "Jason Perera",
         age: "21",
@@ -82,7 +82,7 @@ export default [
     },
 
     {
-        id: 3,
+        id: 12,
         image: "../public/images/maya.jpg",
         name: "Maya Angelou",
         age: "18",
@@ -91,7 +91,7 @@ export default [
 
 
     {
-        id: 5,
+        id: 13,
         image: "../public/images/Timothy.jpg",
         name: "Timothy Fransisco",
         age: "32",
@@ -99,7 +99,7 @@ export default [
     },
 
     {
-        id: 6,
+        id: 14,
         image: "../public/images/Brandon.jpg",
         name: "Brandon Porier",
         age: "54",
@@ -107,7 +107,7 @@ export default [
     },
 
     {
-        id: 2,
+        id: 15,
         image: "../public/images/jason.jpg",
         name: "Jason Perera",
         age: "21",
@@ -115,7 +115,7 @@ export default [
     },
 
     {
-        id: 3,
+        id: 16,
         image: "../public/images/maya.jpg",
         name: "Maya Angelou",
         age: "18",
@@ -124,7 +124,7 @@ export default [
 
 
     {
-        id: 5,
+        id: 17,
         image: "../public/images/Timothy.jpg",
         name: "Timothy Fransisco",
         age: "32",
